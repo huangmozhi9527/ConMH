@@ -108,6 +108,12 @@ For this repository, the expected performance is:
 If you find this repository useful, please consider citing our work:
 
 ```
+@inproceedings{wang23conmh,
+  author={Wang, Yuting and Wang, Jinpeng and Chen, Bin and Zeng, Ziyun and Xia, Shu-Tao},
+  title={Contrastive Masked Autoencoders for Self-Supervised Video Hashing},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2023}
+}
 ```
 
 [SSVH]:https://github.com/lixiangpengcs/Self-Supervised-Video-Hashing
