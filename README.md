@@ -1,6 +1,6 @@
 # Contrastive Masked Autoencoders for Self-Supervised Video Hashing
 
-This repository is the official PyTorch implementation of our AAAI 2023 paper [Contrastive Masked Autoencoders for Self-Supervised Video Hashing](https://arxiv.org/abs/2211.11210).
+This repository is the official PyTorch implementation of our AAAI 2023 paper [Contrastive Masked Autoencoders for Self-Supervised Video Hashing](https://ojs.aaai.org/index.php/AAAI/article/view/25373).
 
 ![](figures/overview.jpg)
 
